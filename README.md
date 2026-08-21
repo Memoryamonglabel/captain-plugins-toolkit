@@ -45,4 +45,4 @@ Project page: https://captain-plugins-toolkit.softnation.xyz
 ## Features
 1. **Professional Audio Engine:** Low-latency recording, multi-track editing, and real-time effects processing.
 2. **Plugin Ecosystem:** Full VST/AU/AAX plugin support for unlimited sound design possibilities.
-3. **Studio-Grade Mixing:** Advanced mixer with automation, routing, and mastering-ready output chain.   
+3. **Studio-Grade Mixing:** Advanced mixer with automation, routing, and mastering-ready output chain.    
